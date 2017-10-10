@@ -19,7 +19,7 @@ develop-eggs
 *.mod
 *.mat
 *.txt
-*_scope.npz
+*.npz
 *.o
 
 # Installer logs
