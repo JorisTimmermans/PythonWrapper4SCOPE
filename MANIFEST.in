@@ -1,0 +1,2 @@
+include setup.py README.rst
+recursive-include scope_wrapper/SCOPE_tools.py __init__.py strongconstraint_utils72.py
