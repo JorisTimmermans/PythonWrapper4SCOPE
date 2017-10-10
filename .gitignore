@@ -4,6 +4,8 @@
 # Packages
 *.egg
 *.egg-info
+MODIS_LAI_500m_test_pixels
+ECMWF_Meteorological_13km_test_pixels
 dist
 build
 old
@@ -17,7 +19,7 @@ develop-eggs
 *.mod
 *.mat
 *.txt
-*.npz
+*_scope.npz
 *.o
 
 # Installer logs
